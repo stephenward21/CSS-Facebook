@@ -1,0 +1,193 @@
+#facebook-wrapper {
+
+}
+
+#header {
+	background-color: #3B5998;
+	height: 30px;
+}
+
+#header-inner {
+	max-width: 900px;
+	margin: auto;
+	overflow: hidden;
+}
+
+#fb-logo, #fb-search {
+	float: left;
+	margin-left: 10px;
+}
+
+#fb-logo {
+	height: 24px;
+	width: 24px;
+	background-image: url("https://www.facebook.com/rsrc.php/v3/yu/r/UnZEsNz1oHl.png");
+	background-position: 0px -17px;
+}
+
+#fb-search input{
+	width: 350px;
+	height: 20px;
+}
+
+#right-header {
+	float: right;
+
+}
+
+.fb-icons {
+	float:left;
+	color: #fff;
+	font-size: 14px;
+	height: 24px;
+	min-width: 24px;
+	margin-left: 10px;
+	line-height: 30px;
+}
+
+.fb-icons.friends, .fb-icons.messages, .fb-icons.notifications {
+	background-image: url('https://www.facebook.com/rsrc.php/v3/yU/r/ujRgtpgUFf7.png');
+}
+
+.fb-icons.friends {
+
+	background-position: 0px -11px;
+
+}
+
+.fb-icons.messages {
+	background-position: 0px -210px;
+}
+
+.fb-icons.notifications {
+
+	background-position: 0px -263px ;
+}
+
+#home-updates .new-feeds {
+	background: rgba(0, 0, 0, .25);
+	border-radius: 2px;
+	font-size: 10px;
+}
+
+#content {
+	overflow: hidden;
+	margin-top: 20px;
+}
+
+#left {
+	width: 20%;
+	float: left;
+	margin-left: 15px;
+
+}
+
+#middle {
+	width: 50%;
+	float: left;
+	border-left: 1px #cacaca solid;
+	/*border-right: 1px #cacaca solid;*/
+	border-bottom: 1px #cacaca solid;
+
+}
+
+#right {
+	width: 25%;
+	float: right;
+}
+
+.left-profile .left-profile-name, .center-profile-name{
+	vertical-align: top;
+}
+
+.favorites-header {
+	margin-left: 10px;
+}
+
+.favorites-item {
+	margin-left: 10px;
+}
+
+.status-header .status-item {
+	float: left;
+	margin-left: 10px;
+	margin-bottom: 10px;
+}
+
+.status-wrapper input {
+	width: 100%;
+	margin-bottom: 10px;
+}
+
+.status-header {
+	border-bottom: 1px #cacaca solid;
+}
+
+.adverts-section {
+	margin-top: 40px;
+	padding-bottom: 9px;
+	font-size: 18px;
+}
+
+.adverts-manager {
+	margin-left: 30px;
+	font-size: 16px;
+}
+
+.pages, .groups, .apps {
+	padding-top: 35px;
+	margin-bottom: 5px;
+	font-size: 18px;
+}
+
+.page-types, .group-type, .app-types {
+	
+	margin-left: 30px;
+	padding-bottom: 5px;
+
+}
+
+.center-profile-image {
+	float: left;
+	margin-top: 10px;
+}
+
+.center-large-image {
+	margin-top: 60px;
+	margin-right: 40px;
+	margin-bottom: 30px;
+	padding: 10px;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+
+
+}
+
+.center-profile-name {
+	margin: 15px;
+	display: inline-block;
+	
+}
+
+.media-comments {
+	margin-bottom: 20px;
+	margin-left: 150px;
+}
+
+
+.like, .comment, .share, .time-ago {
+	display: inline;
+	margin: 10px;
+}
+
+
+
+
+
+
+
+
+
+
